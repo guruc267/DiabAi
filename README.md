@@ -1,6 +1,6 @@
 # DiabAI: Machine Learning-Based Diabetes Detection System
 
-### Collaborator : K Guru Charan https://github.com/guruc267
+### Collaborator : S Nithin https://github.com/SreenivasNithin
 ## Description:
 
 DiabAI is an advanced machine learning-based system designed for early detection of diabetes by analyzing patient health data. By leveraging medical datasets and predictive modeling techniques, DiabAI aims to provide accurate, timely, and reliable predictions of diabetes risk, helping healthcare professionals and patients take preventive measures and make informed decisions. The system is trained on a variety of clinical data, including patient demographics, health metrics, and lifestyle information, to assess the likelihood of developing diabetes.
